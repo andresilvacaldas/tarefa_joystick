@@ -1,6 +1,6 @@
 COMO EXECUTAR
 
-1-Clone o repositório: git clone 
+1-Clone o repositório: git clone https://github.com/andresilvacaldas/tarefa_joystick.git
 
 2-Abra o projeto no VS Code utilizando a extensão da Raspberry e compile o arquivo.
 
